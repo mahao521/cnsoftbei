@@ -1,0 +1,85 @@
+
+Speaker recognition; Text-dependent; Database
+Database keyword search; ontology; query relaxation; data mining
+Cloud Computing; Cloud Database Management System; Database as a Service (DBaaS)
+Database systems; Outsourced databases; GPU; Encryption
+Wireless sensor network; parallel join; column-oriented databases; shared-nothing architecture; communication cost
+P2P Database; Centralized Peer-to-Peer Network; Ant Colony Optimization; Bee Colony Optimization; Bio-inspired Algorithms
+Non-relational database; Distributed data-store; Data model design; Benchmarking; Apache Cassandra
+Microreactor; Diagnosis; Blockage; Computational fluid dynamics; Database
+watermarking relational databases; copyright protection; binary image as watermark information
+Transmission line; Galloping; PMS; Galloping Database
+Query Optimization; Spatial database; Spatial indexing
+Database design; Microwave Planning; Traffic Routing; Transmission Planning
+Spatial databases; Parallel query execution; GPU processing
+Bioinformatics; Databases; Information retrieval; Pattern discovery; Machine learning; Text mining
+Component reliability; distribution network; failure database; failure rate; failure duration
+DC metadata; library database; Gansu Normal University for Nationalities; construction
+Respiratory sounds; Respiratory parameters; Graphical user interface (GUI); Multimedia database
+Database; Medical image; PET/CT; Metadata; Hybrid model; Interface
+Distributed Databases; Query Optimization; Blackboard Method; Service Oriented Infrastructures
+Deductive Databases; Datalog; SQL; Aggregates
+Outer Joins; Deductive Databases; Datalog; SQL
+Frequent itemsets; Association rule; Clustering; Cluster table; Bit vector; Temporal database
+Quadtrees; Database Systems; Relational Databases; Join Based Queries; Hash Join
+Model-driven; Evolution; Data migration; Formal methods; Agile; Databases
+Record linkage; Public health information systems; Database integration; Cervical cancer
+GIS; SIT; Geographical information systems; Spatial databases; Points of interest; Spatial clinical data; Epidemiological databases
+E-CRM database; Value-network; Value-breeding bond network; Relationship marketing; Value proliferation
+Fault tolerance; Distributed database systems; Agreement protocols
+Database design performance; queueing networks
+Gamma; Parallel processing; Relational databases; Normalization; Data Normal forms; Top-down approach; Bottom-up approach; Gamma Virtual Machine
+Curry; database access; dynamic predicates; laziness; persistence
+Arabic Handwritten text image; Database AHDB/FTR
+database; distributed system; batch processing; mini-batch; distributed transaction
+Business Process Modelling; Database Design; Entity Relationship Diagram (ERD); Source-Transaction-Agent (STA) Data Model
+Probabilistic Database; Uncertain Database; Data Summarization; Histogram; Wavelet
+Database; Marketing; Entrepreneurship; Wood enterprise; Tropical wood; WooDB
+Remote Monitoring; Satellite Communication; RS232 Communication; Wireless Sensor Network; Client-Server Programming; XML; Databases; Web Application; GIS; Real-time notifications
+Facial expression; NEI face database; Visual face image; Facial feature changes
+database technology; system for knowledge processing; mining techniques; technology-enhanced learning; FPW 2.6a
+Logic in Databases; Implication Problem; Functional Dependency; Brouwerian Algebra; Data Type
+Logic in Databases; Nested Databases; Lists; Functional Dependency; Multivalued Dependency; Brouwerian Algebra; Propositional Logic
+Logic Programming; Functional-Logic Programming; Deductive Databases
+computable query; object oriented database; reflective machine; finite model theory
+Tool support; Graph transformation; Pattern matching; Relational databases
+Database Archiving; Data Warehouses; Archiving Oriented Dimensional Modelling; Multidimensional Structures
+Workshop Management System; Object Oriented Database; UML; Web Based Interface; Decision Support System
+biological models; model annotation; systems biology; simulation; database
+healthcare; knowledge management; pre-operative patient management; database; standard operating procedure
+Energy Models; Database; Building Sensors
+Spectrum measurement; Cognitive radio networks; Dynamic spectrum access; Spectrum Sensing; Geo-location database
+Autism; Algorithms; C#; Detection of movements and facial expressions; Database; Kinect SDK
+Arrhythmia; UCI database; Neural networks; CFS; Incremental back propagation; Levenberg-Marquardt Classification
+Data linkage; Remote access system; Privacy-protection; e-Records research
+Information Systems; Individual Dosimetry; Database
+Dysarthria; Rhythm; Pairwise variability index; Acoustical analysis; Timing; Nemours database; Dysarthric severity
+Touch screen; mobile; user interface; relational database; relational query
+Probability; Probabilistic models; Databases; Bayes¡¯ Theorem; Medical records system; Computerized
+Protein-protein interaction; Ontologies; Databases; Annotations
+Data Mining; Data Fusion; Knowledge Based Systems; Soft Computing; Database Systems
+BLASTp; FPGA; sequence alignment; protein database search; Swiss-Prot
+Video Databases; Video Retrieval Content; Lens Cut Detection; Feature Extraction; Retrieval Feedback
+Sorting; Stable¨CSorting; Sort-merge algorithms; Auxiliary storage sorting; Merging; Database queries
+ocaml; metaprogramming; generative; database; sql; dynamics
+Image restoration; Fingerprint recognition; Fingerprint database; Filtering; Median filter; Wiener filter; Ensemble average
+Usage control; Auditing; Distributed logic; Distributed database logs
+Mobile iris; Cellular phones; Iris database; Helper data extraction; Mobile recognition; Personal digital assistants
+Database security; SQL injection; SQL vulnerability
+Decision support system; spatial database; site index; clustering; outlier detection; database systems
+Arabic; speech recognition; database; speech sounds; Saudi dialects
+encrypted databases; access control; key derivation; hierarchy; dynamic
+Cloud computing; Image processing; Load balancing; Image region analysis; Data structures; Image storage; Digital libraries; Distributed databases; Parallel processing; Very-large datasets
+Data warehouse; ETL processes; Database; Data mart; OLAP; Conceptual modeling
+Phylogeography; Databases; Nucleic acid; Geographic locations; Bioinformatics
+Clustering moving objects; Moving objects databases; Mining moving object trajectories; K-means clustering algorithm
+Performance modeling; Adaptive algorithms; Numerical algorithms and libraries; Scientific applications; Parallel and distributed; computing; Computing with GPGPU and accelerators; Database management system; Numerical precision and stability; Resource restrictions; (real-time; memory etc.); Empirical Compilation; Automatically-tuned Code Generation; Frameworks and theories of automatic tuning and software optimization; Autonomic computing and context-aware computing; Low-power computing and green computing; Position papers
+Database; semantic data model; null; category theory
+Logic in Databases; Brouwerian Algebra; Functional Dependencies; Inference Rules; Completeness
+database reengineering; schema transformations; program transformations
+graph transformation; graph pattern matching; relational databases
+Federated Databases; Ontology; Semantics Heterogeneity; Contexts
+Iceberg queries; Data mining; Large itemsets; Quantiles; Databases
+Database; Semistructured data; Integrity constraints; Schema; Multimodal and Hybrid logic
+databases; multidimensional spatial access methods; corner transformation; locality
+Data Calculus; Data Mapping; Database Interoperability

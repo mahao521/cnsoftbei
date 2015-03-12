@@ -1,0 +1,71 @@
+Semantic parsing; Semi-supervised learning; Ambiguous supervision
+Sentiment analysis; Polarity inference; Polarity lexicon
+Disambiguation; Query expansion; Search queries
+Topic models; Political science; Text Analysis
+ISO11783; Lossless data compression; GZIP; Bus utilization; Object Pool
+Ribbon interface; Amateur and novice users; Software usability
+Wireless Sensor Network; Cluster-based Wireless Sensor Network; Byzantine Agreement; Distributed system; Internet of Things
+Data warehouses; Traceability; Conceptual models; Business intelligence; MDD; MDA; QVT
+Ad-hoc network; Decentralized network; Ensemble computing; HoneyBee; Security; Safety; Performance statistics
+Information hiding; DCT; Secret communication; LSB substitution
+Domain-Specific Languages; Queuing network models; PMIF
+Deep Packet Inspection; Regular expression; Matching engine; Markov chain
+Synthesis; Emergence; Complexity; Self-reference; Artifactual environment
+Engineering design; Creativity; Semiotics; Emergence
+Pheromone; Emergent; Shop floor control
+Locomotion robots; Minimal simulation; Gait patterns; Emergence; Reinforcement learning; Classifier systems
+Complex systems; Situation awareness; Garbage can model; Supply chain management; Bounded resources; Emergence of coordination; Human-centered automation
+Self-reconfigurable modular robot; Three dimensional self-assembly; Motion generation
+Non-conventional machining; Multi-objective optimization; Exhaustive iterative search; Meta-heuristic algorithms; Pareto front
+Verification; Offline verification; Runtime verification; Monte Carlo simulations; Propulsion systems; Automated contingency management (ACM)
+Web personalization; Collaborative recommender system; Similarity measure; Jaccard coefficient; Dice coefficient; Power coefficient
+Poly-relational networks; Top-k core members; Importance weight; Sequential quadratic programming
+Context-aware system; Energy savings; Service quality; Context acquisition optimization
+Construction industry; Knowledge management; Knowledge representation; Knowledge extraction; Narrative analysis
+Multi-label estimation; Crowdsourced annotation; Label dependency; Quality control; Human computation
+Criminal networks; Community detection; Criminal communities
+Cloud computing; Software as a service; Interoperability
+Fuzzy logic; Beach sediment; Beach erosion; High waves; CSHORE model
+Multi-document summarization; Extractive summarization; Sentence clustering
+Harmony search; Global-best harmony search; Periodic and sign function; Exploration and exploitation; Opposition-based learning; Numerical optimization
+Cloud computing; Data center; Resource management; Intelligent algorithm
+Mechanical alloying; Metal matrix nanocomposites; Microstructures; Feed-forward neural network; Genetic algorithm
+Smart Grids; Data partitions; Online learning; Clustering data streams; Learning classifier systems
+Malware; Malicious code; Machine Learning; Active learning; SVM
+Audio emotion recognition; RBF neural network; Prosodic features; MFCC feature
+Schedule Justification; Resource-constrained project scheduling problem (RCPSP); Particle swarm optimization; Priority rules
+Bakery production planning; Evolutionary algorithms; Modified Genetic Algorithm; Ant colony optimization; Flow-shop scheduling
+Image processing; Image enhancement; Artificial intelligence; Artificial life model
+Automated planning; Advance Telecom Services; Services composition
+Genetic algorithm; FIR filter; Filter design; Hybridization; Instance selection
+Feature selection; Genetic algorithm; Latent semantic indexing; Text classification
+Classification; Data mining; Forged websites; Phishing; Internet security
+Fuzzy clustering; Attribute weighting; Interval number; Genetic algorithm; Alternating optimization
+Compressed model; MapReduce; Parallelization; Classification; Intrusion detection
+Sentiment analysis; Multilingual sentiment lexicons; Spanish resources for sentiment analysis
+Opinion mining; Ontology; Sentiment analysis; Feature extraction; Part of speech tagging; Polarity identification
+Clustering; Cohort intelligence; Meta-heuristic algorithm
+Bivariate processes; Forecasting; Wavelet coefficients; Feedforward neural networks; Nonlinear autoregressive models; Econophysics
+Video games; Fuzzy systems; Game mechanics; Scripting games
+Online social network; Complaint theme; Entropy model; Influence measure
+Support Vector Regression (SVR); Modified Firefly Algorithm (MFA); Short Term Load Forecasting (STLF); Adaptive Modification Method
+Dual-Tree Complex Wavelet Packet Transform (DT-CWPT); Electroencephalogram (EEG); Singular Value Decomposition (SVD); QR factorization with column pivoting (QRcp); F-Ratio; Support Vector Machine (SVM); Human-computer interaction (HCI)
+Personality; Cognitive architecture; Cognitive modeling
+Language and cognition; Language usage; Extended mind; Dialogue; Distributed cognition; Social interactions
+Bounded rationality; Satisficing; Heuristics; Computability; Computational complexity
+Cognitive moderator; Mathematical model; Cognitive model; Model proxy
+Embodied cognition; Language comprehension; Concrete concepts; Abstract concepts; Embodied theories
+3D shape acquisition; B-spline surfaces; Enhanced 3D parameterization
+Asphalt paving; Construction; Sensors; Visualization; Data fusion; Process control
+Clustering; Collision detection; Grouping; Virtual construction
+Patent analysis; Ontology schema; Meta-analysis; Clinical trials
+Computer aided engineering; Data mining; Unified design representation; Design concepts; Sensitivity &amp; interaction analysis; Passenger car design
+Sentiment analysis; Social intelligence; Accommodation theory; Semantic alignment; Textual correlation analysis; Affective computing
+Adaptive behavior; C. elegans; Animat; Chemotaxis; Control system
+Motion; Gaits; Secondary features; Style; Affect; Optimization
+Radial sampling; Focus of attention; Biologically inspired pavement; Data compression; Foveated image; Eye saccades
+Computational modeling; Reading; Working memory; Discourse quality
+Meta-reasoning; Error-correcting agents; Self-diagnosis and self-repair; Perceptual grounding; Symbol grounding; Classification learning
+Robot; Temperament; Emotions
+Multi-agent system; Reinforcement learning; Myers¨CBriggs Type Indicator; Robot teaming; Heterogeneous robot team
+Emotion modeling; Emotion theories; Cognitive¨Caffective architectures
